@@ -1814,29 +1814,6 @@ body {
 .cid-rBAgX9La6A {
   background-image: url("../../../assets/images/spacnation-1-800x445.jpg");
 }
-.cid-rBK6TXxGLW {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-rBK6TXxGLW .line {
-  background-color: #149dcc;
-  color: #149dcc;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-rBK6TXxGLW .section-text {
-  padding: 2rem 0;
-}
-.cid-rBK6TXxGLW .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-rBK6TXxGLW .inner-container {
-    width: 100% !important;
-  }
-}
 .cid-rBAh1DEBD8 {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1972,6 +1949,29 @@ body {
   width: 40px;
   height: 40px;
   border-radius: 50%;
+}
+.cid-rBK6TXxGLW {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rBK6TXxGLW .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rBK6TXxGLW .section-text {
+  padding: 2rem 0;
+}
+.cid-rBK6TXxGLW .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rBK6TXxGLW .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-rBAh7SvgKm .modal-body .close {
   background: #1b1b1b;
